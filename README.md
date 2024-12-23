@@ -1,4 +1,4 @@
-# Electric Vehicle Analysis ||Microsoft Excel, Power-BI
+# Electric Vehicle Analysis || Excel, Power-BI
 
 ### 💠 Project Overview
 
@@ -57,6 +57,8 @@ Here's a summary of each sheet's contents:
 
 The dashboard provides a comprehensive summary of electric vehicle (EV) sales performance. It emphasizes sales metrics across makers, vehicle types, and regional distribution for AtiIQ Motors. 
 
+![Screenshot 2024-12-22 133845](https://github.com/user-attachments/assets/25e8de25-3619-47d0-b261-0b4f67a68aa3)
+
 ### Key Insights and Findings
 
 #### 1. Total Vehicles Sold:-
@@ -109,6 +111,8 @@ The top EV makers are leading the market with significant sales figures:
 
 - It highlights top and bottom performers, key revenue drivers, and growth patterns, enabling stakeholders to assess market dynamics and identify opportunities.
 
+![Screenshot 2024-12-22 133903](https://github.com/user-attachments/assets/ca5e4610-7e2e-4d9d-bcf9-59e7d3df9e3c)
+
 ### Key Insights and Findings
 
 #### 1. Overview Metrics (Top KPIs)
@@ -158,9 +162,11 @@ Low Sales Months: January and February have the lowest sales, indicating potenti
 - Tata Motors shows steady growth (94.71% CAGR) with a focus on high-revenue segments.z
 
 
+## ✨ Page 3 : State Analysis
 
+- State Analysis Dashboard focuses on the geographical performance of EV sales across 35 states and union territories in India. It provides insights into EV penetration, revenue contributions, top-performing states, and future market projections for both 2-wheelers and 4-wheelers. The dashboard is designed to help stakeholders understand state-wise EV adoption trends and identify areas for growth.
 
-- The S## ✨ Page 3 : State Analysistate Analysis Dashboard focuses on the geographical performance of EV sales across 35 states and union territories in India. It provides insights into EV penetration, revenue contributions, top-performing states, and future market projections for both 2-wheelers and 4-wheelers. The dashboard is designed to help stakeholders understand state-wise EV adoption trends and identify areas for growth.
+![Screenshot 2024-12-22 133918](https://github.com/user-attachments/assets/2a8ffd19-6f2b-4f1c-8d4c-42739ef5065e)
 
 ### Key Insights and Findings
 
@@ -229,6 +235,9 @@ This dashboard effectively captures the state-wise performance of the EV market,
 ## ✨ Page 4 : Trends & Growth 
 
 This dashboard provides a comprehensive analysis of trends and growth in the electric vehicle (EV) market.
+
+![Screenshot 2024-12-22 133929](https://github.com/user-attachments/assets/ce33ab90-0eac-4289-8195-a04f22aafe77)
+
 
 ### key insights and findings:
 
